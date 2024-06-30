@@ -1,6 +1,8 @@
-# Desafio1
-Desafio One/Alura/Oracle
+# Desafios
+Desafios da One/Alura/Oracle
 
+********************************************************************************************
+Desafio 1
 
 Desafio do programa da Oracle One, em parceria com a Alura.
 
@@ -12,3 +14,6 @@ A letra "i" é convertida para "imes"
 A letra "a" é convertida para "ai"
 A letra "o" é convertida para "ober"
 A letra "u" é convertida para "ufat"
+
+********************************************************************************************
+
